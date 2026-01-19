@@ -1,0 +1,21 @@
+body {
+    margin: 20px;
+}
+
+
+/* ID Selector */
+
+#bio-title {
+    color: darkblue;
+    font-size: 28px;
+}
+
+
+/* Class Selector */
+
+.bio-text {
+    background-color: white;
+    padding: 15px;
+    font-size: 16px;
+    color: black;
+}
